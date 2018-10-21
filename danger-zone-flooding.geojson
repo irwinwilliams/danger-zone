@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "North Coast Road",
+        "danger": "Fallen trees and landslips along the road. Single lane traffic",
+        "source": "https://twitter.com/mowtgovtt/status/1053758911327670272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.496716,
+          10.716701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Heights of Aripo",
+        "danger": "5 slips cleared, single lane traffic",
+        "source": "https://twitter.com/mowtgovtt/status/1053758911327670272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.232,
+          10.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Arima Blanchisseuse Road",
+        "danger": "fallen trees cleared",
+        "source": "https://twitter.com/mowtgovtt/status/1053758911327670272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.289616,
+          10.655806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Paria Road 55km",
+        "danger": "61km landslips cleared, single lane traffic",
+        "source": "https://twitter.com/mowtgovtt/status/1053758911327670272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.937756,
+          10.837409
+        ]
+      }
+    }
+  ]
+}
