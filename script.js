@@ -1,7 +1,7 @@
 // This isn't necessary but it keeps the editor from thinking L is a typo
 /* global L */
 
-var map = L.map('map').setView([38.500893,-98.745117], 5);
+var map = L.map('map').setView([-61.3,10.4], 5);
 
 // Add base layer
 L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
@@ -19,7 +19,7 @@ fetch('danger-zone-flooding.geojson')
     var complaintData = L.geoJson(data, {
       onEachFeature: function (feature, layer) {
         // Add a popup to each feature
-				var popupText = feature.properties.title + "- " + feature.properties.danger;
+				var popupText = "<strong>"+feature.properties.title + "</strong> <br /> " + feature.properties.danger;
 				layer.bindPopup(popupText);
 			}
     });
