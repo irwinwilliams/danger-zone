@@ -72,6 +72,126 @@
           10.837409
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Eastern Main Road, Sangre Grande",
+        "danger": "water subsided in the town area.",
+        "source": "https://twitter.com/mowtgovtt/status/1053758914175602688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.146586
+          , 10.590864         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Eastern Main Road, Manzanilla",
+        "danger": "Flooding subsiding, cars able to pass.",
+        "source": "https://twitter.com/mowtgovtt/status/1053758914175602688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -61.058674, 10.523942        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "North Oropouche Road and Fishing Pond Road",
+        "danger": "The flood water has started to subside.",
+        "source": "https://twitter.com/mowtgovtt/status/1053758914175602688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.125443, 
+          10.583605] 
+        
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Cunapo Southern Road",
+        "danger": " landslips blocking roadway at some points. Flooding in some areas. Cars are able to pass from the 9km-22km",
+        "source": "https://twitter.com/mowtgovtt/status/1053758916281200640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.134175, 10.551075] 
+        
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Warrenville Road Cunupia",
+        "danger": "Flooded.",
+        "source": "https://twitter.com/mowtgovtt/status/1053758918579625984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.380822, 10.582855] 
+        
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Caroni Southbank Road",
+        "danger": "Flooded.",
+        "source": "https://twitter.com/mowtgovtt/status/1053758918579625984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.339963, 10.582157] 
+        
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Madras Road",
+        "danger": "Flooded.",
+        "source": "https://twitter.com/mowtgovtt/status/1053758918579625984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -61.343221,
+        10.582421] 
+        
+      }
     }
   ]
 }
