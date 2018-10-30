@@ -192,6 +192,41 @@
         10.582421] 
         
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Manzanilla Mayaro Road",
+        "danger": " 62km to 72km, approximately 27 inches on Roadway.",
+        "source": "https://www.facebook.com/notes/ministry-of-works-and-transport-trinidad-tobago/flooding-and-landslip-update-as-at-130-pm-22-10-2018/1604156166352772/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.024838, 10.399937] 
+        
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "title": "Caroni Savannah Road North",
+        "danger": "6 to 12 inches of water, in some areas",
+        "source": "https://www.facebook.com/notes/ministry-of-works-and-transport-trinidad-tobago/flooding-and-landslip-update-as-at-130-pm-22-10-2018/1604156166352772/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.406024, 10.615974] 
+        
+      }
     }
   ]
 }
